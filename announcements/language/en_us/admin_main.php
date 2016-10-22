@@ -5,7 +5,7 @@
 
 // Global 
 $lang['AnnouncementsPlugin.next_version'] = "This Feature is NOT available in this version."; 
-$lang['AnnouncementsPlugin.index.index_body'] = "This Plugin is Free To Use , Select wich Action You needd from links Above ."; 
+$lang['AnnouncementsPlugin.index.index_body'] = "This plugin is free to use, select which action you need from the links above."; 
 $lang['AnnouncementsPlugin.select.please'] = " --- Please Select --- ";
 $lang['AnnouncementsPlugin.select.none'] = "None";
 
@@ -30,7 +30,7 @@ $lang['AnnouncementsPlugin.index.permissions'] = "Permissions";
 // Announcements
 $lang['AnnouncementsPlugin.announcements.page_title'] = "Announcements > Announcements";
 $lang['AnnouncementsPlugin.announcements.boxtitle_announcements'] = "Announcements";
-$lang['AnnouncementsPlugin.announcements.no_announcements'] = "There are no Announcement in database."; 
+$lang['AnnouncementsPlugin.announcements.no_announcements'] = "There are no announcements in the database."; 
 $lang['AnnouncementsPlugin.announcements.heading_announcement'] = "ID";
 $lang['AnnouncementsPlugin.announcements.heading_title'] = "Title";
 $lang['AnnouncementsPlugin.announcements.heading_active'] = "Published";
@@ -45,7 +45,7 @@ $lang['AnnouncementsPlugin.add.page_title'] = "Announcements > Add Announcement"
 $lang['AnnouncementsPlugin.add.boxtitle_add'] = "Add Announcement"; 
 $lang['AnnouncementsPlugin.add.body'] = "Announcement Body"; 
 $lang['AnnouncementsPlugin.add.title'] = "Announcement Title"; 
-$lang['AnnouncementsPlugin.add.active'] = "Published ?"; 
+$lang['AnnouncementsPlugin.add.active'] = "Published?"; 
 $lang['AnnouncementsPlugin.add.submit_add'] = "Add Announcement";
 $lang['AnnouncementsPlugin.add.submit_cancel'] = "Cancel";
 $lang['AnnouncementsPlugin.add.field_description_text'] = "Text";
@@ -87,8 +87,8 @@ $lang['AnnouncementsPlugin.settings.basic_heading'] = "Basic Settings";
 $lang['AnnouncementsPlugin.settings.widget_heading'] = "Widget Settings"; 
 $lang['AnnouncementsPlugin.settings.field_hide_aside'] = "Show ASIDE in announcement list page "; 
 $lang['AnnouncementsPlugin.settings.field_client_widget'] = "Enable widget announcement in client Area";
-$lang['AnnouncementsPlugin.settings.field_client_widget_list'] = "How many announcements  Should be shown in the widget ";
-$lang['AnnouncementsPlugin.settings.field_allow_share'] = "Allow Clients/Guests To use the share buttons";
+$lang['AnnouncementsPlugin.settings.field_client_widget_list'] = "How many announcements should be shown in the widget?";
+$lang['AnnouncementsPlugin.settings.field_allow_share'] = "Allow Clients/Guests to use the share buttons";
 $lang['AnnouncementsPlugin.settings.field_allow_rss'] = "Enable RSS for announcements";
 $lang['AnnouncementsPlugin.settings.field_save'] = "Save Settings";
 
